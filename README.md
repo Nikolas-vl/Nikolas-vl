@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Nikolas Vladymyrov
 
-🎯 A motivated and detail-oriented **Front-End Developer** with a strong passion for clean UI and meaningful user experiences.
+🎯 A motivated and detail-oriented **Full-Stack Developer** with a strong passion for clean UI and meaningful user experiences.
 
 ---
 
@@ -10,7 +10,7 @@
 
 💡 I’ve worked on both individual and team-based projects, always staying focused on code quality, time management, and helping teammates solve bugs and improve code structure.
 
-🌱 Currently expanding my skills in **TypeScript** and deepening my knowledge of **react**.
+🌱 Currently expanding my skills in **TypeScript** and deepening my knowledge of **Next.js**.
 
 📍 Based in **Wrocław, Poland**
 
@@ -18,15 +18,33 @@
 
 ### ⚙️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-6e99ff?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### 🔹 Front-end
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>](https://developer.mozilla.org/docs/Web/HTML)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>](https://developer.mozilla.org/docs/Web/CSS) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>](https://developer.mozilla.org/docs/Web/JavaScript) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>](https://react.dev/) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>](https://www.typescriptlang.org/docs/) 
+[<img src="https://www.svgrepo.com/show/354262/react-router.svg" width="40" height="40"/>](https://reactrouter.com/) 
+[<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="40" height="40"/>](https://redux-toolkit.js.org/) 
+[<img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" width="40" height="40"/>](https://formik.org/docs/overview) 
+
+### 🔹 Back-end
+[<img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png?f=webp" width="40" height="40"/>](https://nodejs.org/docs) 
+[<img src="https://cdn.simpleicons.org/express/000000/FFFFFF" width="40" height="40"/>](https://expressjs.com/) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>](https://www.mongodb.com/docs/) 
+[<img src="https://avatars.githubusercontent.com/u/7552965?s=400&v=4" width="40" height="40"/>](https://mongoosejs.com/docs/guide.html)
+[<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>](https://firebase.google.com/docs)
+
+### 🔹 Utilities / Tools
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>](https://code.visualstudio.com/) 
+[<img src="https://github.gallerycdn.vsassets.io/extensions/github/vscode-github-actions/0.27.2/1749139672616/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40"/>](https://docs.github.com/en/actions) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>](https://www.figma.com/) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="40" height="40"/>](https://eslint.org/docs/latest/) 
+[<img src="https://prettier.io/icon.png" width="40" height="40"/>](https://prettier.io/docs/en/index.html) 
+[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>](https://www.postman.com/) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>](https://www.npmjs.com/)
+[<img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="40" height="40"/>](https://vercel.com/docs)
+[<img src="https://vitejs.dev/logo.svg" width="40" height="40"/>](https://vitejs.dev/guide/)
 
 ---
 
@@ -34,8 +52,10 @@
 
 | Name | Description | Role | Link |
 |------|-------------|------|------|
+| **TravelTrucks** | Frontend for a camper rental platform with catalog filtering, pagination, favorites, and booking functionality, including camper details, reviews, and validated forms | Developer | [GitHub](https://github.com/Nikolas-vl/TravelTrucks) \| [Live](https://campers-rho.vercel.app/) |
+| **Harmoniq** | Full-stack web app for publishing, reading, and saving articles with authentication, profiles, article creation, favorites, filtering, and role-based access via protected routes | Team Lead & Developer | [GitHub](https://github.com/Nikolas-vl/Harmoniq) \| [Live](https://project-harmoniq-front-end.vercel.app/) |
 | **Contacts Book** | Contact management app with authentication, Formik & Yup validation, state persistence | Developer | [GitHub](https://github.com/Nikolas-vl/goit-react-hw-08) \| [Live](https://goit-react-hw-08-pi-flax.vercel.app) |
-| **Lloyd Jefferson** | Website-resume about a programmer | Team Lead | [GitHub](https://github.com/Nikolas-vl/project-CodeTeam14) \| [Live](https://nikolas-vl.github.io/project-CodeTeam14/) |
+| **Lloyd Jefferson** | Website-resume about a programmer | Team Lead & Developer | [GitHub](https://github.com/Nikolas-vl/project-CodeTeam14) \| [Live](https://nikolas-vl.github.io/project-CodeTeam14/) |
 | **WatchCharm** | Company website with modal windows & responsive layout | Developer | [GitHub](https://github.com/nastishaaa/project1) \| [Live](https://nastishaaa.github.io/project1/index.html) |
 | **WebStudio** | Responsive website for a web studio | Developer | [GitHub](https://github.com/Nikolas-vl/goit-markup-hw-06) \| [Live](https://nikolas-vl.github.io/goit-markup-hw-06/index.html) |
 
